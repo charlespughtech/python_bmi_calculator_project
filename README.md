@@ -71,9 +71,9 @@ No external dataset is used. The BMI calculation and classification are based on
 
 ```bash
 python_bmi_calculator_project/
-├── python_bmi_calculator_project.ipynb  # Jupyter Notebook with BMI calculator code
+├── README.md                           # Project overview and instructions
 ├── python_bmi_calculator_project.html   # HTML export of the Jupyter Notebook
-└── README.md                           # Project overview and instructions
+└── python_bmi_calculator_project.ipynb  # Jupyter Notebook with BMI calculator code
 ```
 
 ---
