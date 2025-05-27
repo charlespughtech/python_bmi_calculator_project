@@ -1,6 +1,6 @@
 # BMI Calculator Project
 
-# python_bmi_calculator_project
+# bmi_calculator_python_project
 
 ---
 
@@ -70,8 +70,8 @@ No external dataset is used. The BMI calculation and classification are based on
 ## Project Structure
 
 ```bash
-python_bmi_calculator_project/
-├── README.md                           # Project overview and instructions
+bmi_calculator_python_project/
+├── README.md                            # Project overview and instructions
 ├── python_bmi_calculator_project.html   # HTML export of the Jupyter Notebook
 └── python_bmi_calculator_project.ipynb  # Jupyter Notebook with BMI calculator code
 ```
@@ -190,8 +190,8 @@ To explore or replicate the BMI Calculator Project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/charlespughtech/python_bmi_calculator_project.git
-   cd python_bmi_calculator_project
+   git clone https://github.com/charlespughtech/bmi_calculator_python_project.git
+   cd bmi_calculator_python_project
    ```
 
 2. **Explore the Project**:
