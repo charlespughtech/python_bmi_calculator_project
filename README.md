@@ -1,7 +1,5 @@
 # BMI Calculator Project
 
-# bmi_calculator_python_project
-
 ---
 
 Python-based BMI Calculator implemented in a Jupyter Notebook to calculate Body Mass Index (BMI) and classify health status based on user inputs.
